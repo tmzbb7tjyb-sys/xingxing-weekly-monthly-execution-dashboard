@@ -1,0 +1,4 @@
+interface:
+  display_name: "星星电台-周月执行进度看板"
+  short_description: "按月份和任务生成周月执行看板、跨表公式、反馈区和进度预警"
+  default_prompt: "使用 $xingxing-weekly-monthly-execution-dashboard 根据月份和任务清单生成星星电台周月执行进度看板。"
